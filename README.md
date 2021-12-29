@@ -1,2 +1,2 @@
-Data of 2020 from stack overflow site is selected from csv file type. 
+Survey data for 2020 years were selected from the Stack Overflow site.
 https://insights.stackoverflow.com/survey
